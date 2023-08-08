@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Swati-S-Hegde/Swati-S-Hegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
